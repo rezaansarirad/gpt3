@@ -27,12 +27,6 @@ This project is a GPT-3 WebSite built using `React` and `React-icon`. It utilize
    yarn start
    ```
 
-## Screenshots
-
-![Screenshot 1](./public/assets/1.png)
-
-<!-- Add more screenshots if needed -->
-
 ## Contributing
 
 Website Asset Collection by AR Shakir & Adrian Hajdin
