@@ -1,4 +1,4 @@
-# 3D WebSite - 3D Text effect with React Three Fiber
+# GPT-3 WebSite - Landing page
 
 This project is a GPT-3 WebSite built using `React` and `React-icon`. It utilizes various technologies and libraries to create a seamless and interactive user experience.
 ![Screenshot 2](./public/sticker.gif)
